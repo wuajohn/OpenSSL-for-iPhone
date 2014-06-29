@@ -1,4 +1,4 @@
-OpenSSL-for-iOS 
+OpenSSL-for-iOS 123
 
 This is a script for using self-compiled builds of the OpenSSL-library on the iPhone. You can build apps with XCode and the official SDK from Apple with this. I also made a small example-app for using the libraries with XCode and the iPhone/iPhone-Simulator.
 
